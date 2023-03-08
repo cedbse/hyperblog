@@ -1,6 +1,3 @@
-hola este es un archivo de texto plano, para subir a github,
-solo los archivos de texto plano se pueden subir
-Cambios nuevos hechos a las 5:14 am
+hola este es un archivo de texto plano, para subir a github, solo los archivos de texto plano se pueden subir
 
-
-Hoy hablaremos de la vida de César y Obra maestra
+Mañana nos enfocaremos en su vida laboral
